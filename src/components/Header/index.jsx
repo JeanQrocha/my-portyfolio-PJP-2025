@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import './style.css'
 
 export default function Header() {
     return (
@@ -6,17 +7,17 @@ export default function Header() {
         <header>
             <h1>Meu Portifólio</h1>
         <nav>
-            <ul>
-                <li>
+            <div>
+                <button>
                     <Link to="/">Inicio</Link>
-                </li>
-                <li>
+                </button>
+                <button>
                     <Link to="/">Sobre Mim</Link>
-                </li>
-                <li>
+                </button>
+                <button>
                     <Link to="/">Habilidades</Link>
-                    </li>
-            </ul>
+                    </button>
+            </div>
         </nav>
 
         </header>
