@@ -6,7 +6,7 @@ export default function Header() {
         <>
         <header>
             <h1>Meu Portifólio</h1>
-        <nav>
+        <nav className="navegate">
             <div>
                 <button>
                     <Link to="/">Inicio</Link>

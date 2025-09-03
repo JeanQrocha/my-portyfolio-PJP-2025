@@ -3,7 +3,7 @@ export default function Sobre() {
         <>
         <section>
             <h2>Sobre Mim</h2>
-            <p>Me chamo Jean Q. Rocha, tenho 29 anos, atualmente estou aprendendo a programar no curso Jovem Programado. Quero me tornar um programador futuramente, vou correr atras da minha graduação e continuar estudando pra sempre estar atualizado na area da tecnologia.</p>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Impedit debitis, eos eum odio ea itaque libero deserunt voluptatum blanditiis tempora quam at repellat delectus ratione quisquam architecto doloribus in natus!</p>
         </section>
         </>
     )
